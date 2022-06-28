@@ -23,7 +23,11 @@
 ## Используемые билиотеки
 
  *pandas*
+
  *matplotlib*
+
  *seaborn*
+
  *scipy*
+
  *numpy*
