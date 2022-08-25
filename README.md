@@ -1,4 +1,4 @@
-# yandex_practicum
+# Yandex_Practicum Data Analysis
 Проекты, выполненные в рамках курса: "Аналитик данных" в Яндекс Практикум.
 | Project                | Description            | Used libraries         |
 | :----------------------| :----------------------| :----------------------|
