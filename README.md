@@ -3,7 +3,5 @@
 | Project                | Description            | Used libraries                            |
 | :----------------------| :----------------------| :-----------------------------------------|
 | Gamedev                |                        |  Pandas, Matplotlib, Seaborn, Scipy, Numpy|
-| :----------------------|
 | Marketing              |
-| :----------------------|
 | Mobile app             |
