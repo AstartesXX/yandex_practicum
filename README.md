@@ -1,8 +1,6 @@
 # Yandex_Practicum Data Analysis
 Repository containing portfolio of data analysis projects completed by Ilia Khailov during the training courses at [Yandex_Practicum](https://practicum.yandex.ru)
-:----------------------------------------------------:
 Certificate of completion the course (English version)
-:----------------------------------------------------:
 Certificate of completion the course (Russian version)
 | Project                                                                    | Description            | Used libraries                            |
 | :--------------------------------------------------------------------------| :----------------------| :-----------------------------------------|
