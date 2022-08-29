@@ -1,7 +1,7 @@
 # Yandex_Practicum Data Analysis
-Repository containing portfolio of data analysis projects completed by Ilia Khailov during the training courses at [Yandex_Practicum](https://practicum.yandex.ru)
-Certificate of completion the course (English version)
-Certificate of completion the course (Russian version)
+<p align="center">Repository containing portfolio of data analysis projects completed by Ilia Khailov during the training courses at [Yandex_Practicum](https://practicum.yandex.ru)</p>
+<p align="center">[Certificate of completion the course (English version)](https://github.com/AstartesXX/yandex_practicum/blob/main/yandex_da_en.pdf)</p>
+<p align="center">[Certificate of completion the course (Russian version)](https://github.com/AstartesXX/yandex_practicum/blob/main/yandex_da_ru.pdf)</p>
 | Project                                                                    | Description            | Used libraries                            |
 | :--------------------------------------------------------------------------| :----------------------| :-----------------------------------------|
 | [Gamedev](https://github.com/AstartesXX/yandex_practicum/tree/main/gamedev)|                        |  Pandas, Matplotlib, Seaborn, Scipy, Numpy|
