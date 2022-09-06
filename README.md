@@ -1,4 +1,7 @@
 # Yandex_Practicum Data Analysis
+
+[C:\Users\Илья\Documents\GitHub\yandex_practicum]
+
 Repository containing portfolio of data analysis projects completed by Ilia Khailov during the training courses at [Yandex_Practicum](https://practicum.yandex.ru)
 
 [Certificate of completion the course (English version)](https://github.com/AstartesXX/yandex_practicum/blob/main/yandex_da_en.pdf)
