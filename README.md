@@ -1,7 +1,6 @@
 # Yandex_Practicum Data Analysis
 
-![]
-(C:\Users\Илья\Documents\GitHub\yandex_practicum\Practicum.jpg)
+![](C:\Users\Илья\Documents\GitHub\yandex_practicum\Practicum.jpg)
 
 Repository containing portfolio of data analysis projects completed by Ilia Khailov during the training courses at [Yandex_Practicum](https://practicum.yandex.ru)
 
