@@ -1,8 +1,7 @@
-# Yandex_Practicum Data Analysis
+![]
+(https://commonmark.org/help/images/favicon.png)
 
-![][img]
-[img]:
-https://commonmark.org/help/images/favicon.png
+# Yandex_Practicum Data Analysis
 
 Repository containing portfolio of data analysis projects completed by Ilia Khailov during the training courses at [Yandex_Practicum](https://practicum.yandex.ru)
 
