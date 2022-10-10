@@ -1,8 +1,10 @@
-# Создание дашборда по пользовательским событиям для агрегатора новостей.
+# Создание [**дашборда**](https://public.tableau.com/views/Book1_16503906508950/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+ по пользовательским событиям для агрегатора новостей.
 
 ## Цель
 
-Используя данные Яндекс.Дзена, построить дашборд с метриками взаимодействия пользователей с карточками статей.
+Используя данные Яндекс.Дзена, построить [**дашборд**](https://public.tableau.com/views/Book1_16503906508950/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+ с метриками взаимодействия пользователей с карточками статей.
 
 ## Вывод
 
@@ -25,5 +27,3 @@
 ## Статаус проекта
 
 Завершён.
-
-[Дашборд](https://public.tableau.com/views/Book1_16503906508950/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
